@@ -5,11 +5,11 @@ function upperCaseCustomerName(){
    return customerName = customerName.toUpperCase();
 }
 
- function upperCaseCustomerName(){
+// function upperCaseCustomerName(){
 
   //  return customerName = 'BOB';  //works
   // return (customerName.toUpperCase());  //does not work, apparentrly to.UpperCase doesnt work at returning.
- }
+ //}
 
 
 function setBestCustomer(){

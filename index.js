@@ -9,4 +9,6 @@ function setBestCustomer(){
     bestCustomer = 'not bob'  //has to be global scope
 }
 
-function overwriteBestCustomer(){}
+function overwriteBestCustomer(){
+   bestCustomer = 'maybe bob'
+}

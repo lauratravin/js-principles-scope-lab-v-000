@@ -11,5 +11,5 @@ function setBestCustomer(){
 
 function overwriteBestCustomer(){
    bestCustomer = 'maybe bob';
-   return bestCustomer;
+   return bestCustomer;   //works with or not return bcos variable is global
 }

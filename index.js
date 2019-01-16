@@ -23,5 +23,5 @@ function overwriteBestCustomer(){
 }
 
 function changeLeastFavoriteCustomer(){
-
+    return  leastFavoriteCustomer = 'dog'
 }

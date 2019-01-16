@@ -8,7 +8,7 @@ var customerName = 'bob';
  function upperCaseCustomerName(){
 
   //  return customerName = 'BOB';  //works
-   return (customerName.toUpperCase());  //does not work
+  // return (customerName.toUpperCase());  //does not work, apparentrly to.UpperCase doesnt work at returning.
  }
 
 

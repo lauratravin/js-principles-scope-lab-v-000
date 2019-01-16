@@ -1,5 +1,6 @@
 // Write your solution in this file!
 var customerName = 'bob';
+const leastFavoriteCustomer = 'cat';
 
 function upperCaseCustomerName(){
    return customerName = customerName.toUpperCase();
@@ -19,4 +20,8 @@ function setBestCustomer(){
 function overwriteBestCustomer(){
    bestCustomer = 'maybe bob';
    return bestCustomer;   //works with or not return bcos variable is global
+}
+
+function changeLeastFavoriteCustomer(){
+
 }

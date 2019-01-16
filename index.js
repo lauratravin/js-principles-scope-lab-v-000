@@ -2,9 +2,11 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName(){
-     console.log(customerName.toUpperCase());
+    customerName.toUpperCase();
 }
 
 function setBestCustomer(){
     bestCustomer = 'not bob'  //has to be global scope
 }
+
+function
